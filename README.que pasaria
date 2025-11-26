@@ -1,0 +1,19 @@
+git branch,si<que pasaria si>
+
+Gestión de Logística y Proveedores
+git checkout -b feature/gestion-logistica
+git commit -m "docs(proveedores): Definir protocolo para buscar y certificar un segundo proveedor de emergencia"
+git commit -m "feat(delivery): Implementar protocolo de reembolso/reposición y mecanismo de penalización por daños o retrasos de la empresa asociada"
+git commit -m "refactor(delivery): Actualizar formulario de pedido a domicilio para registrar el 'Nombre de la Persona que Recibe' al momento de la entrega"
+
+Experiencia del Cliente y Proceso de Venta
+git checkout -b feature/experiencia-cliente
+git commit -m "docs(ventas): Crear guía visual y checklist detallado para estandarizar las especificaciones de arreglos personalizados (tamaño, tipo de flor, color)"
+git commit -m "feat(servicio-cliente): Integrar un proceso de doble verificación de datos (teléfono y dirección) durante la toma de pedidos para reducir errores críticos"
+git commit -m "feat(pagos): Habilitar métodos de pago virtual alternativos y definir un proceso de reserva temporal en caso de fallo de pago"
+
+Gestión Interna y Recursos Humanos
+git checkout -b feature/gestion-interna
+git commit -m "docs(rrhh): Establecer un programa de capacitación cruzada para floristas para mitigar el riesgo por ausencia de un especialista único"
+git commit -m "feat(sistemas): Evaluar e implementar un sistema POS (punto de venta) para automatizar la facturación y validación de datos"
+git commit -m "feat(inventario): Diseñar e implementar un protocolo de inventario compartido y transferencia rápida de productos entre sucursales"
