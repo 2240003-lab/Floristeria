@@ -1,6 +1,6 @@
 Floristeria La Margarita
 
-Florsiteria La Margarita es una floristeria la cual esta ubicada en la Avenida Los Jazmines, Santiago de los Caballeros 51000, lleva existiendo desde el  1985, esta floristeria fue fundada por un señor el cual proviene de Puerto Plata, 
+Florsiteria La Margarita es una floristeria la cual esta ubicada en la Avenida Los Jazmines, Santiago de los Caballeros 51000, lleva existiendo desde el  1980, esta floristeria fue fundada por un señor el cual proviene de Puerto Plata, 
 actualmente la dueña de esta floristeria es una de las hijas del fundador, por lo tanto, es una decendencia familiar. El origen del nombre del lugar es debido a que la esposa del fundador era una fanatica de las margaritas, y por eso 
 el fundador le añadió ese nombre a la tienda para hacerle tributo a su esposa. Esta floristeria se destaca de las demas ya que esta tiene un horario mas extendido de lo normal, trabajando de 8 a.m. hasta las 6 p.m., exceptuando los 
 domingos, ya que los domingos cierran a las 12 p.m.. Esta floristeria esta abierta casi todos los dias del año, exceptuando dias festivos como lo son el 25 de diciembre, el 1 de enero, los viernes santos, etc. La Floristeria La Margarita,
@@ -13,7 +13,7 @@ de su inventario es muy seguida, aunque no tiene un horario fijo ya que todo dep
 se encuentra el número telefónico de la tienda, para que los clientes se puedan contactar con ellos y así poder hacer pedidos de productos a domicilio o simplemente para preguntar por artículos para luego ir al local a comprar el 
 artículo que desée el cliente.
 
-En la FLoristeria tienen un buen cuidado de las flores naturales, ya que tienen tanto flores naturales como flores artificiales, ambas para hacer arreglos o venderlas en pequeños ramos, osea, se pueden hacer tanto Arreglso Artificiales
+En la FLoristeria tienen un buen cuidado de las flores naturales, ya que tienen tanto flores naturales como flores artificiales, ambas para hacer arreglos o venderlas en pequeños ramos, osea, se pueden hacer tanto Arreglos Artificiales
 como Arreglos Naturales, y al igual que coronas fúnebres. Los productos mencionados anteriormente son algunos de los que podemos encontrar en esta tienda, pero también hay otros productos como lo son Globos para varios tipos de
 celebraciones (como pueden ser cumpleaños, San Valentin, dia de la madre/padre, expresar cariño o amor, etc.), estas pueden ser vendidas por individual o incrustadas en cajas si son mas de 1 globo. Canastas, las cuales pueden
 traer varios tipos de flores o solamente un tipo de flor, este mismo acompañado de un globo, el cual puede tener el diseño que guste el cliente o el cliente puede elegir alguno que esté en la tienda el cual sea de su interes, 
@@ -24,3 +24,36 @@ utilizarlo para cuando no haya luz. Jarrones, aquí podemos encontrar jarrones d
 Chocolates, hay bombones de chocolate de varios tamaños; Grande, mediano y pequeño, los cuales saben muy buenos en el paladar de tu boca (también hay tablas de chocolate de varios tamaños). Shoppings, hay varios tipos de shoppings 
 de diversos tamaños y diseños para diversas celebraciones. Fragancias, hay fragancias tanto de hombre como para mujer, los cuales tienen un olor excepcional. Conservantes, estan disponible los conservantes de flores para que los
 clientes puedan mantener viva a sus flores por bastante tiempo. Coronas, estas son coronas de princesa/reina que se ponen en la cabeza, las cuales se pueden convinar para cumpleaños o eventos.
+
+Si un cliente quiere comprar un arreglo debe ir al local/WhatssApp, luego de ya estar en contacto con uno de los empleados de servicio al cliente, el cliente procede a decir que es lo que quiere, ya luego de pedir que es lo que quiere
+el cliente procede a dar sus datos personales, porque si, se necesitan los datos del cliente para hacerle un arreglo, lo que se pide del cliente es su nombre, teléfono, dirección y metodo de pago. Luego de ya haberse resgistrado esos
+datos se procede a hacer el cobro de los artículos, para caracterizar cada artículo se debe tener registrado el nombre del producto, categoria a la que pertenece, y su valor unitario.
+
+Luego del cobro se procede a entregar una factura al cliente, tienen 2 tipos de facturas (sin comprobante físcal y con comprobante físcal), 
+
+comprobante físcal: el cual contiene el NFC, los datos del cliente, los datos del producto, la cantidad que se va a llevar de cada producto, los datos de la empresa (los cuales incluye el nombre de la empresa, el telefono del local,
+la sucursal, la dirección de la sucursal, RNC, el correo gmail, el instagram y descripción de la empresa), el subtotal, ITBIS, transporte, descuento (si tiene), valor total valor total de todos los productos, la fecha de la factura.
+
+Sin comprobante físcal: El RNC, fecha de la factura, nombre del cliente, direccion del cliente (opcional), el telefono del cliente, los productos, cantidad del producto, y el valor total de la compra, la informacion de la empresa.
+
+Ambos tipos de facturas tienen el logo de la empresa, junto con su nombre y numero de teléfono.
+
+Actualmente la Floristería cuenta con un proveedor el cual se encarga de llevar las flores y productos al local, de este se necesita saber su nombre, teléfono, y de donde viene el proveedor.
+
+En la Floristeria La Margarita trabajan actualmente 5 empleados (incluyendo a la jefa actual del negocio), de estos empleados se tiene registrado el nombre de cada uno de ellos, su dirección, número telefónico, y el área al cual está
+asignado cada empleado. En la Floristeria actualmente hay 2 roles/áreas las cuales son; Floristas y Servicio al Cliente, actualmente en el negocio hay un total de 3 Floristeros y 2 Servicio al cliente. Para cada rol se necesitan
+saber cosas distintas a los demas roles, por ejemplo, en el rol de Floristero se necesita saber la especialidad floral de cada uno para saber en que son mejores uno que otro, y sus años de experiencia. 
+Mientras que para los de Servicio al cliente se requiere saber si tiene experiencia en manejo de sistemas y habilidad en la comunicación.
+
+Estos empleados trabajan en el negocio y se encargan de que el negocio siga adelante.
+
+En la Floristeria La Margarita se pueden hacer pedidos a domicilio, para eso se debe de contactar por WhatssApp a la empresa y detallar su pedido, luego de es puede elegir el metodo de pago que desee usar el cliente, ya luego de eso,
+el cliente debe de proporcionar su informacion para que cuando su pedido este listo, el delivery pueda llevarle el producto al cliente. En otras palabras, para realizar un pedido a domicilio se necesita saber lo que quiere el cliente
+(osea, los datos del producto), y luego se necitaran saber los datos de la entrega del pedido, las cuales son: el nombre de quién recibe el producto, su teléfono, dirección, por quién fue recibido  la entrega y el dia en el que se 
+entrego el producto.
+
+También se pueden hacer pedidos desde WhatssApp y el cliente ir al local a buscarlo ya terminado.
+
+Esta Floristería tuvo solamente un percance en toda su historia, la cual fue un robo, de pocos objetos, pero aún así es un atraco. Y también cabe recalcar que para cualquier cliente que quiera hacer un pedido de algún producto, tiene
+que pagar por adelantado, para evitar incomvenientes. En esta Floristería sus metodos de pago existentes son: Paypal, transferencia o deposito bancario, pago con tarjeta de credito/debito, Caribe Express. Los bancos disponibles son:
+Popular, Reservas, BHD Leon, Scotiabank, Banco Digital Qik, Banco Santa Cruz y Asociacion popular. Para pagos con tarjeta de credito o débito virtuales, se le enviara al cliente un link de pago seguro.
